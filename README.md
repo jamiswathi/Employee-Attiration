@@ -1,2 +1,3 @@
-# Employee-Attiration
-This is a dummy project
+# Employee Attrition
+![image.png](images/HRTalent.png)
+
